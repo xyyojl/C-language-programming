@@ -1,3 +1,4 @@
+// ²Î¿¼Á´½Ó£ºhttps://www.cnblogs.com/IT-Lead-The-World/p/10350950.html
 #include <stdio.h>
 #include <math.h>
 
